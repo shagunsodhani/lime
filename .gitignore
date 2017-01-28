@@ -68,3 +68,6 @@ fabric.properties
 
 # Pycharm
 .idea
+
+#Jupyter Notebook
+.ipynb_checkpoints
